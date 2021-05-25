@@ -42,6 +42,3 @@ console.log(pasarUsuarioAPremium([
 
 
 
-
-
-
