@@ -13,6 +13,7 @@ function agregarMetodoCalculoDescuento(producto) {
   return producto;
 }
 
+
 console.log(agregarMetodoCalculoDescuento({
     precio: 20,
     porcentajeDeDescuento: 0.2  
